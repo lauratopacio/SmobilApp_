@@ -43,7 +43,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="17dp"
         android:gravity="center"
-        android:text="Base de datos remota tutorial"
+        android:text="prueba"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textStyle="bold" />
 
